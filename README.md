@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### LeetCode Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/User30072006?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+</div>
+
 <!--
 **noname3141/noname3141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
