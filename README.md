@@ -2,7 +2,7 @@
 
 ### LeetCode Stats
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/User30072006?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/User30072006?font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </div>
 
 <!--
